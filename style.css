@@ -44,3 +44,9 @@
   color: white;
   transform: rotateY(180deg);
 }
+.back button {
+  background: gold;
+  color: gray;
+  border: none;
+  padding: 10px 20px;
+}
